@@ -1,4 +1,4 @@
-DAMN VULNERABLE WEB APP
+***REMOVED***
 =======================
 
 v1.8
