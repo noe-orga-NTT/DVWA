@@ -1,5 +1,5 @@
 # ***REMOVED***
-***REMOVED***
+export AUTH_GITLAB_CLIENT_SECRET="gloas-b89ab82d3d0c20362c8f0871f770ea0802cd0116364a8bb6d8431c2732a0fead"
 
 Damn Vulnerable Web Application (DVWA) is a PHP/MariaDB web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
 
